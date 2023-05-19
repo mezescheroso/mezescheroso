@@ -7,8 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/menezessssssssss/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/mezescheroso)
 
-![Mezescheroso status](https://github-readme-stats.vercel.app/api?username=Mezescheroso&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mezescheroso status](https://github-readme-stats.vercel.app/api?username=Mezescheroso&show_icons=true&theme=radical)](https://github.com/mezescheroso)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mezescheroso)
 
 
 <div style="display: inline_block"><br/>
