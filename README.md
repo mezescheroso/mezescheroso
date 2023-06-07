@@ -1,12 +1,9 @@
-
-### Olá, eu sou o Gabriel Menezes 👋
-
-
-<hr>
-
-### Fale comigo:
-
-   <div align="left">
+<div align="center">
+   <h1>Olá, eu sou o Gabriel Menezes 👋<h1>
+   <h3>Fale comigo:<h3>
+</div>
+   
+  <div align="center">
   <a href="https://discord.com/users/402063501662748673" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord"  />
   </a>
@@ -19,7 +16,13 @@
 </div>
 <br>
 
-[![status](https://github-readme-stats.vercel.app/api?username=Mezescheroso&show_icons=true&theme=dark)](https://github.com/mezescheroso)
+<div align="center">
+  <a href="https://github.com/mezescheroso">
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=mezescheroso&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="252em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezescheroso&layout=compact&langs_count=7&theme=nord"/>
+</div>
+
+   <br>
 
 <table><tr><td valign="center" width"10%">
 
