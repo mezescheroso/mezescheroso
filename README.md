@@ -1,10 +1,10 @@
 <div align="center">
    <h1>Olá, eu sou o Gabriel Menezes 👋<h1>
-   <h3>Fale comigo:<h3>
 </div>
-   
-  <div align="center">
-  <a href="https://discord.com/users/402063501662748673" target="_blank">
+     
+<div align="center">
+  <h3>Fale comigo:<h3>
+<a href="https://discord.com/users/402063501662748673" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord"  />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-resende-menezes-200a68221/" target="_blank">
@@ -14,7 +14,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail"  />
   </a>
 </div>
-<br>
 
 <div align="center">
   <a href="https://github.com/mezescheroso">
@@ -24,9 +23,8 @@
 
    <br>
 
-<table><tr><td valign="center" width"10%">
-
 <div align="center">
+  <table><td valign="center" width"10%">
     <h3>Ferramentas e tecnologias:</h3>
       </div>
 <div align="center">  
