@@ -20,9 +20,6 @@
   <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=mezescheroso&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="252em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezescheroso&layout=compact&langs_count=7&theme=nord"/>
 </div>
-
-   <br>
-   
 <div align="center">
     <table><td valign="center" width"10%">
     <div align="center">
